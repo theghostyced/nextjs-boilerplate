@@ -1,5 +1,14 @@
-<div align="center"><img width="400" src="./static/images/boilerplate_1.png"/></div>
-<h3 align="center"><strong>:zap: Simple NextJS Boilerplate :zap:</strong></h3>
+<div align="center"><img width="400" src="./static/images/boilerplate_2.png"/></div>
+<p align="center">
+  <h3 align="center"><strong>:zap: Simple NextJS Boilerplate :zap:</strong></h3>
+  <br/>
+  <br/>
+  <div align="center">
+    <img src="./static/images/tech/styled-component.png" width="50">
+    <img src="./static/images/tech/prettier.png" width="50">
+    <img src="./static/images/tech/eslint.svg" width="50">
+  </div>
+</p>
 
 ## Contents
 
